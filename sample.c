@@ -1,8 +1,11 @@
 #include <stdio.h>
-#define SIZE 100
+#include <string.h>
+#define SIZE 1001
 
 /**/
 
 int main(void) {
+    char input[] = "input.txt";
+    char output[] = "output.txt";
     return 0;
 }
